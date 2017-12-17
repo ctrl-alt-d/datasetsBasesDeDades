@@ -1,5 +1,4 @@
-# datasetsBasesDeDades
-Datasets per a pràctiques de bases de dades
+# Datasets per a pràctiques de bases de dades ( #datasetsBasesDeDades )
 
 * Actualitzat: 8 de febrer de 2017
 * Dades facilitades per: Departament de Salut. Banc de Sang i Teixits
