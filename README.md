@@ -11,3 +11,4 @@ Datasets per a pràctiques de bases de dades.
 * El fitxer `*___MSSQL2017.back` és una exportació de la base de dades. En aquest cas en format backup de MS SQL Server 2017.
 * Els conjunts de dades poden tenir la seva pròpia llicència, hi ha enllaç a les dades per tal de consultar-la.
 
+![](./Accidents_de_tr%C3%A0nsit_2017/vizs/Totals.png)
